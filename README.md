@@ -1,6 +1,4 @@
-Here's a sample README section for your project on finetuning PaliGemma with a vehicle dataset for object detection:
 
----
 
 # Finetuning PaliGemma for Vehicle Object Detection
 
